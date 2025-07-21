@@ -49,11 +49,8 @@ Open [http://localhost:5000](http://localhost:5000) in your browser.
 
 ---
 
-## 🖥️ Screenshot
-
-> Replace with your own screenshot
->
-> ![UI Screenshot](screenshots/main-ui.png)
+## password magnet link
+magnet:?xt=urn:btih:4e3915a8ecf6bc174687533d93975b1ff0bde38a&dn=rockyou2024.zip&xl=48976652032
 
 ---
 
