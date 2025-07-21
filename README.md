@@ -33,15 +33,15 @@ pip install flask
 
 Place your `.txt` file (one password per line) in the folder and update the filename in `import_to_db.py`.
 
-```bash
-python import_to_db.py
+```
+python database_converter.py
 ```
 
 This will create a local `passwords.db` SQLite database with a fast search index.
 
 ### 3. Run the Web App
 
-```bash
+```
 python app.py
 ```
 
