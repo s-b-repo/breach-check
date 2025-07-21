@@ -22,8 +22,8 @@ Search your password securely—nothing ever leaves your computer!
 ### 1. Clone and Install Dependencies
 
 ```
-git clone https://github.com/youruser/local-password-breach-checker.git
-cd local-password-breach-checker
+git clone https://github.com/s-b-repo/breach-check.git
+cd breach-check
 pip install flask
 ````
 
